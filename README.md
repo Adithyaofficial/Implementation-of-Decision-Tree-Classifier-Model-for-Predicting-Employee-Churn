@@ -48,28 +48,36 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 ### Data Head:
-![head](https://user-images.githubusercontent.com/93427923/169693675-2a2f8bd7-9a87-49dc-a58c-777969b5f353.png)
+<img width="1777" height="302" alt="image" src="https://github.com/user-attachments/assets/6ca794cd-d42d-49fa-b613-108774cd2050" />
+
 
 ### Information:
-![info](https://user-images.githubusercontent.com/93427923/169693680-b6183dca-cdfb-4dad-afef-3badcecd05f9.png)
+<img width="1787" height="427" alt="image" src="https://github.com/user-attachments/assets/a9173a51-84b4-432f-a6d2-26e16746e4d5" />
+
 
 ### Null dataset:
-![null](https://user-images.githubusercontent.com/93427923/169693714-10634ad2-5b16-4db4-8b72-3d7b3babd95f.png)
+<img width="1744" height="536" alt="image" src="https://github.com/user-attachments/assets/e45f9984-b945-4574-a1c7-63249a53905f" />
+
 
 ### Value_counts():
-![left](https://user-images.githubusercontent.com/93427923/169693730-1efadbf5-4cec-4d2b-bbdd-5d29fcaddc36.png)
+<img width="1767" height="265" alt="image" src="https://github.com/user-attachments/assets/770ed5fb-8492-41cd-a32a-4cf0eb12d516" />
+
 
 ### Data Head:
-![head2](https://user-images.githubusercontent.com/93427923/169693736-5f392e94-f043-40fa-a0ed-32e89ad2ddb0.png)
+<img width="1776" height="300" alt="image" src="https://github.com/user-attachments/assets/1a9d7a48-c969-4576-92ca-737450fb1eb0" />
+
 
 ### x.head():
-![xhead](https://user-images.githubusercontent.com/93427923/169693739-0365b04f-731b-404b-b914-ef3b5b57c3cf.png)
+<img width="1660" height="293" alt="image" src="https://github.com/user-attachments/assets/03fed685-655a-4c9e-9694-3f62b6151a11" />
+
 
 ### Accuracy:
-![accuracy](https://user-images.githubusercontent.com/93427923/169693745-cd8c6451-7622-4ef9-a65c-3d7e3bd661de.png)
+<img width="1152" height="86" alt="image" src="https://github.com/user-attachments/assets/8606320f-1fd7-4275-b321-1839f5f8b45b" />
+
 
 ### Data Prediction:
-![predict](https://user-images.githubusercontent.com/93427923/169693750-5106819e-ba64-4653-ad7b-b0f06df09a72.png)
+<img width="1774" height="130" alt="image" src="https://github.com/user-attachments/assets/ec167853-54d5-4465-a42b-be25da261eb3" />
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
